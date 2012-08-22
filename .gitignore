@@ -1,0 +1,7 @@
+# Exclude .class file from tracking
+bin/
+
+#Eclipse project files
+.classpath
+.project
+.settings
